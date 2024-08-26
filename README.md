@@ -17,8 +17,8 @@ You can take a look at the data on [Data](https://github.com/LilHuss26/SQL-Sales
   Coount countries and cities
 ### Charts
 + Country Orders & Revenues **Scatter Chart**
-  ++For every country, the y-axis shows how many orders
-  ++Size shows how much revenue is earned
+  -For every country, the y-axis shows how many orders
+  -Size shows how much revenue is earned
 + Sales By Quarter **Clustered Column Chart**
   Compares every quarter for every year
 + Sales by Product **Donat Cart**
