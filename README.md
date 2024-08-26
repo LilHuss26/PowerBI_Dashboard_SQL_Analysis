@@ -17,6 +17,7 @@ You can take a look at the data on [Data](https://github.com/LilHuss26/SQL-Sales
   Coount countries and cities
 ### Charts
 + **Country Orders & Revenues** (Scatter Chart)
+  * X-axis: Countries
   * Y-axis: Number of orders
   * Size: Revenue earned
 
@@ -31,4 +32,4 @@ You can take a look at the data on [Data](https://github.com/LilHuss26/SQL-Sales
   * Visualizes the amount of supplied products for each supplier within a country
 
 + **Times ordered & Price Change Ratio** (Line Chart)
-  * Demonstrates the relationship between product price changes and order frequency
+  * Demonstrates the relation between the price change ratio for a product and the times it is ordered
