@@ -7,14 +7,14 @@ You can take a look at the data on [Data](https://github.com/LilHuss26/SQL-Sales
 ## Elements
 ### Cards
 + Top Metrics summarize
-  Total revenues
-  Total pieces sold
-  Total orders
-  And a `years` filter
-+ On the Left
-  A **Donat Chart** for the average for each weekday
-  Count customers ordered
-  Coount countries and cities
+  * Total revenues
+  * Total pieces sold
+  * Total orders
+  * And a `years` filter
++ Left-Side Elements
+  * **Donut Chart:** Average sales for each weekday
+  * Count customers ordered
+  * Count countries and cities
 ### Charts
 + **Country Orders & Revenues** (Scatter Chart)
   * X-axis: Countries
