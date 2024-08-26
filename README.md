@@ -1,7 +1,7 @@
 # PowerBI_Dashboard_SQL_Analysis
 This Power BI dashboard visualizes the insights discovered previously on the [SQL-Sales-Data-Analysis](https://github.com/LilHuss26/SQL-Sales-Data-Analysis) 
 # Data 
-You can take a look at the data on [Data](https://github.com/LilHuss26/SQL-Sales-Data-Analysis/tree/main/Data) from the mentioned repository and the [queries](https://github.com/LilHuss26/SQL-Sales-Data-Analysis/tree/main/Analysis%20Queries) where the used views are created.
+You can take a look at the data on [Data](https://github.com/LilHuss26/SQL-Sales-Data-Analysis/tree/main/Data) from the mentioned repository and the [queries](https://github.com/LilHuss26/SQL-Sales-Data-Analysis/tree/main/Analysis%20Queries) where the used `views` are created.
 # Dashboard
 ![image](https://github.com/user-attachments/assets/d19c022b-70b3-4db1-b8bc-bd310ec04c94)
 ## Elements
