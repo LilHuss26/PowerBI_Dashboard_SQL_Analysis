@@ -16,14 +16,19 @@ You can take a look at the data on [Data](https://github.com/LilHuss26/SQL-Sales
   Count customers ordered
   Coount countries and cities
 ### Charts
-+ Country Orders & Revenues **Scatter Chart**
-    For every country, the y-axis shows how many orders
-    Size shows how much revenue is earned
-+ Sales By Quarter **Clustered Column Chart**
-    Compares every quarter for every year
-+ Sales by Product **Donat Cart**
-    Shows top 5 products sold
-+ Supplying Countries **Treemap**
-    Shows every country supplying revenues, and the amount of supplied products for each supplier from this country
-+ Times ordered & Price Change Ratio **Line Chart**
-    Shows the relation between the price change ratio for a product and the times it is ordered
++ **Country Orders & Revenues** (Scatter Chart)
+  * Y-axis: Number of orders
+  * Size: Revenue earned
+
++ **Sales By Quarter** (Clustered Column Chart)
+  * Compares sales for each quarter across different years
+
++ **Sales by Product** (Donut Chart)
+  * Displays the top 5 products sold
+
++ **Supplying Countries** (Treemap)
+  * Shows revenue contributions from different countries
+  * Visualizes the amount of supplied products for each supplier within a country
+
++ **Times ordered & Price Change Ratio** (Line Chart)
+  * Demonstrates the relationship between product price changes and order frequency
