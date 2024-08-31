@@ -3,7 +3,7 @@ This Power BI dashboard visualizes the insights discovered previously on the [SQ
 # Data 
 You can take a look at the data on [Data](https://github.com/LilHuss26/SQL-Sales-Data-Analysis/tree/main/Data) from the mentioned repository and the [queries](https://github.com/LilHuss26/SQL-Sales-Data-Analysis/tree/main/Analysis%20Queries) where the used `views` are created.
 # Dashboard
-![image](https://github.com/user-attachments/assets/3ca4eaf9-e6b0-47e8-b347-128e0bfbd21f)
+![image](https://github.com/user-attachments/assets/96197ead-9036-4979-b729-1bb7ff96f2cd)
 ## Elements
 ### Cards
 + Top Metrics summarize
